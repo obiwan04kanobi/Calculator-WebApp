@@ -1,5 +1,8 @@
 # Calculator-WebApp
 A Basic Calculator Web Application which is deployed on Amazon Web Services (AWS).
+# Prerequisites
+- A Basic understanding of AWS or cloud computing in general.
+- A Working AWS account or access to AWS console.
 # AWS Services Used
 - AWS LAMBDA
 - AWS DYNAMO DB
