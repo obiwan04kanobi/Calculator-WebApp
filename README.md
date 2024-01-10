@@ -1,5 +1,5 @@
 # Calculator-WebApp
-A Basic Calculator Web Application which is deployed on Amazon Web Services (AWS).
+The project serves as a practical example of building a serverless web application with AWS services. It aims to provide a fully functional calculator while highlighting best practices in terms of serverless architecture, API management, data storage, and security. Users can perform calculations, and the results are stored in DynamoDB, allowing for future retrieval and analysis. Additionally, AWS IAM ensures that only authorized actions can be taken on AWS resources, enhancing the security of the application.
 # Prerequisites
 - A Basic understanding of AWS or cloud computing in general.
 - A Working AWS account or access to AWS console.
