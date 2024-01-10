@@ -11,12 +11,15 @@ The project serves as a practical example of building a serverless web applicati
 - AWS AMPLIFY
 # WebAPP
 🔗: https://dev.d32mtbsnsb1weo.amplifyapp.com/
-#Slides
-![](Pictures/1)
 
-![](Pictures/2)
+# Overview
+![](Pictures/1.jpg)
 
-![](Pictures/3)
+# Objectives
+![](Pictures/2.jpg)
+
+# Problems It Aims to Solve
+![](Pictures/3.jpg)
 
 # Helpful links
 🔗: https://youtu.be/7m_q1ldzw0U?si=6hcrZxbc8j6vXHZV
